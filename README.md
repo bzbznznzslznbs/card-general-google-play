@@ -1,0 +1,1 @@
+# card-general-google-play
